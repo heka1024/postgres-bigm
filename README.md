@@ -6,3 +6,5 @@
 ```
 docker pull heka1024/postgres-bigm:13
 ```
+
+Modified from https://github.com/kazaoki/postgres-bigm
