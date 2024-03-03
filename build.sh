@@ -1,0 +1,1 @@
+docker build --platform linux/amd64 -t heka1024/postgres-bigm:13 .
